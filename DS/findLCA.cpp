@@ -97,12 +97,10 @@ int main()
 
 	return 0; 
 }
-
 /*
-(base) abhijit@abhijit:~/work_bench/GIT_internal/internal/practice$ g++ test.cpp 
-(base) abhijit@abhijit:~/work_bench/GIT_internal/internal/practice$ ./a.out 
+(base) root@abhijit:~/work_bench/geeksforgeeks/DS# g++ findLCA.cpp
+(base) root@abhijit:~/work_bench/geeksforgeeks/DS# ./a.out 
 LCA (4,5) = 2
 LCA (4,10) = Keys are not present 
 LCA (10,5) = Keys are not present 
-
 */
